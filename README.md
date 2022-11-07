@@ -10,6 +10,8 @@ The following libraries should be installed before running the code:
 * samplerate (https://pypi.org/project/samplerate/)
 * EDFlib (https://pypi.org/project/EDFlib-Python/)
 
+It is recommended to create an environment for mne-python and install the other libraries inside the environment
+
 # Usage
 
 See the examples in REM_Onset_Detector/examples. The examples were made using Jupyter Notebook.
